@@ -1,8 +1,8 @@
 仿摩拜单车app,我的贴纸中类似于碰撞球功能
-==========================
-
-一.首先,需要学习一些知识点
 --------------------------
+
+#### 一.首先,需要学习一些知识点
+
 
 1.CoreMotion框架(加速计和陀螺仪)
 * [http://blog.csdn.net/sifenkesi1/article/details/52621873](http://blog.csdn.net/sifenkesi1/article/details/52621873);
@@ -15,8 +15,7 @@
 * [http://blog.csdn.net/sharktoping/article/details/52277158](http://blog.csdn.net/sharktoping/article/details/52277158);
 
 
-二.代码如下
---------------------------
+#### 二.代码如下
 
 ~~~
 - (void)setupBalls{
@@ -94,4 +93,6 @@ weakSelf.gravity.angle = rotation;
 
 }
 ~~~
+
+#### 三.效果图
 
