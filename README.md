@@ -95,4 +95,4 @@ weakSelf.gravity.angle = rotation;
 ~~~
 
 #### 三.效果图
-![效果图](film.mov)
+![效果图](introduce.gif)
